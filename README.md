@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Machine learning in python
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me -taakdhairya@gmail.com
+- 📫 How to reach me  taakdhairya@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
